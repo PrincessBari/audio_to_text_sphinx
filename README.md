@@ -9,4 +9,6 @@ for which I used the first python file **break_up_wav_file.py**.
 
 Next, I used CMU Sphinx to transcribe the audio from the 19 wav files and print it all to one doc using the python file **transcribe_pocketsphinx.py**.
 
+The final transcription is the attached file **all_cumings_transcriptions.docx**.
+
 * In the future, I would like to use ML to train this model to transcribe more accurately. While my code worked well enough for what I needed, there's definitely room for improvement.
